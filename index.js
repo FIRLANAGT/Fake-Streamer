@@ -19,7 +19,7 @@ client.on("ready", () => {
         .setApplicationId("CLIENT_ID")
         .setAssetsLargeImage(image.id)
         .setAssetsLargeText("youtube.com/SealedSaucer")
-        .setDetails("Subscribe!")
+        .setDetails("SLOW RESPON | ON DC KALO GA SIBUK | 𝙍𝙞𝙯𝙯")
  
         client.user.setPresence(presence.toDiscord())
     }).catch(console.error)
